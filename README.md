@@ -1,7 +1,8 @@
 # Quiz_2
 5 Temas de bitacora
 1. 🔴
-2. 🟠
+2. 🟠 **Metadato:** 
+Un metadato es un conjunto de información que describe otros datos, ayudando a entender su contenido y contexto. En términos simples, son "datos sobre datos", proporcionando un marco de referencia para el contenido digital, como imágenes, vídeos y documentos. Los metadatos permiten la identificación y comprensión de los datos de manera estructurada, facilitando su localización y gestión. 
 3. 🟡
 4. 🟢
 5. 🔵
